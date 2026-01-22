@@ -9,8 +9,7 @@ language: 'English'
 # Remove or set false to turn draft page into normal ones
 draft: true
 ---
-
-```log title="hello.log"
+```log
 test
 test
 ```
@@ -19,8 +18,9 @@ test
 
 Test `inline code`
 
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 1   | Data 2   |
-| Row 3    | Data 1   | Data 2   |
+
+| aaa 1 | Header 2 | Header 3 |
+| ----- | -------- | -------- |
+| Row 1 | Data 1   | Data 2   |
+| Row 2 | Data 1   | Data 2   |
+| Row 3 | Data 1   | Data 2   |
